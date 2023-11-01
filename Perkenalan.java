@@ -7,6 +7,6 @@ public class Perkenalan {
         System.out.println("2H");
 
         // Harapan
-        System.out.println();
+        System.out.println("Sukses");
     }
 }
